@@ -58,4 +58,4 @@ jobs:
           CI: true
           REPO_URL: "young/young.github.io"  # 改为你自己的仓库  
           BUILD_PATH: ".vitepress/dist"  # 构建输出路径，不要改  
-          CUSTOM_DOMAIN: "blog.young.com"  # 改为你自己的自定义域名
+          CUSTOM_DOMAIN: "young.github.io"  # 改为你自己的自定义域名
